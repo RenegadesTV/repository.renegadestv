@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.rayw1986" name="RayW1986 Repo" version="1.0" provider-name="rayw1986">
+	<extension point="xbmc.addon.repository" name="RayW1986 Repository">
+		<info compressed="false">http://raw.github.com/RayW1986/repository.rayw1986/master/addons.xml</info>
+		<checksum>http://raw.github.com/RayW1986/repository.rayw1986/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/RayW1986/repository.rayw1986/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>RayW1986's Repository</summary>
+		<description>RayW1986's Repository. Includes the Indy Wrestling Network.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

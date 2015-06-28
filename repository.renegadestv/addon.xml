@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.renegadestv" name="RenegadesTV Repo" version="1.0" provider-name="renegadestv">
+	<extension point="xbmc.addon.repository" name="RenegadesTV Repository">
+		<info compressed="false">http://raw.github.com/RenegadesTV/repository.renegadestv/master/addons.xml</info>
+		<checksum>http://raw.github.com/RenegadesTV/repository.renegadestv/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/RenegadesTV/repository.renegadestv/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>RenegadesTV Repository</summary>
+		<description>Repository for RenegadesTV</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
