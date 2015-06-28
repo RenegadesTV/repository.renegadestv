@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="script.renegadestv" name="Renegades TV Guide" version="1.0.2" provider-name="Antony, rayw1986, bluezed">
+<addon id="script.renegadestv" name="Renegades TV Guide" version="1.0.3" provider-name="Antony, rayw1986, bluezed">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>
