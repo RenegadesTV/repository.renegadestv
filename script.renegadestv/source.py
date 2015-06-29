@@ -819,7 +819,7 @@ class XMLTVSource(Source):
     FTV_UKSKY = 'guide_uksky.xmltv'
     FTV_USTV = 'guide_ustvnow.xmltv'
     FTV_USUKBASIC = 'guide_usukbasic.xmltv'
-    FTV_URL = 'https://raw.githubusercontent.com/RenegadesTV/repository.renegadestv/master'
+    FTV_URL = 'https://raw.githubusercontent.com/RenegadesTV/repository.renegadestv/master/'
     KEY = 'xmltv'
     INI_TYPE_FTV = 0
     INI_TYPE_CUSTOM = 1
