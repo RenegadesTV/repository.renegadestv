@@ -1,0 +1,5 @@
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-audio_2%3D96000-video%3D1374000.m3u8
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-audio_1%3D128000-video%3D3500000.m3u8
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-audio_2%3D96000-video%3D1374000.m3u8
+plugin://plugin.video.tvplayer/?url=113&mode=200
+plugin://plugin.video.F.T.V/?url=UK+LIVE+TV&mode=125&name=CBBC%2FBBC+Three&&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F113%2Fextra_big_logo.png&start=&ch_fanart=113<>live306.edge.filmon.com

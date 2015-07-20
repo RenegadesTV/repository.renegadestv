@@ -1,0 +1,3 @@
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
+plugin://plugin.video.freestreams/?url=none&mode=200&name=MTV+Hits&iconimage=http%3A%2F%2Fmobile.desistreams.tv%2Fimages%2Fchannels%2F110215032425493px-MTV_HITS_logo.svg.png&

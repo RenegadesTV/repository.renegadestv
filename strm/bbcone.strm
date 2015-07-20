@@ -1,0 +1,5 @@
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+http://82.135.224.134:80/udp/239.100.3.1:1234
+plugin://plugin.video.tvplayer/?url=89&mode=200
+plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=BBC+ONE&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2443&portal=%7B%22name%22%3A+%22NFPS%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%22%22%2C+%22serial%22%3A+null%2C+%22password%22%3A+%220000%22%7D&mode=play&logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F801.png&
+plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=BBC+ONE&stalker_url=http%3A%2F%2Fportal.iptvprivateserver.tv&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2443&mode=play&logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F801.png&

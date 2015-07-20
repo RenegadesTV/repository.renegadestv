@@ -1,0 +1,98 @@
+<poster>Beatbox8501</poster>
+<fanart>http://i1295.photobucket.com/albums/b636/beatbox8501/BEATFLIX2_zpsd5c5de3d.jpg</fanart>
+
+<item>
+<title>MTV HITS</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/634px-MTV_Hits.svg.png</thumbnail>
+</item>
+
+<item>
+<title>MTV ROCKS</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MTV_Rocks.svg/635px-MTV_Rocks.svg.png</thumbnail>
+</item>
+
+<item>
+<title>MTV DANCE</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/MTV_Dance.svg/631px-MTV_Dance.svg.png</thumbnail>
+</item>
+
+<item>
+<title>VH1 HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20110408023054/logopedia/images/c/ce/Video_Hits_One_HD.png</thumbnail>
+</item>
+
+<item>
+<title>VH1 CLASSIC</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8?version=2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/620px-LOGO_VH1_CLASSIC.svg.png</thumbnail>
+</item>
+
+<item>
+<title>VH1 EUROPE</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8?version=2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f0/VH1_94-2003_logo.png</thumbnail>
+</item>
+
+<item>
+<title>THE BOX</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8</link>
+<thumbnail>http://www.thedrum.com/uploads/drum_basic_article/120277/additional_media/box%203_0.png</thumbnail>
+</item>
+
+<item>
+<title>KISS</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2012/07/Kiss-TV.jpeg</thumbnail>
+</item>
+
+<item>
+<title>CLUBLAND</title>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoyYRiNPLU81xT9svHVBkJCW2xOzabVHZ83wBdDrS06m6LHcgX</thumbnail>
+</item>
+
+<item>
+<title>KERRANG</title>
+<link>http://csm-e.tm.yospace.com/csm/live/78581309.m3u8</link>
+<thumbnail>http://www.haxed.co.uk/gallery/albums/userpics/10156/kerrang_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>SMASH HITS</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/3/3d/20121207165915!Smashhits.PNG</thumbnail>
+</item>
+
+<item>
+<title>MAGIC</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8?b?b*t$</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/Magic_radio.jpg</thumbnail>
+</item>
+
+<item>
+<title>NOW THATS WHAT I CALL MUSIC</title>
+<link>http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8</link>
+<thumbnail>http://static.simplestream.com.s3-website-eu-west-1.amazonaws.com/tvplayer/logos/150/Inverted/228.png</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>

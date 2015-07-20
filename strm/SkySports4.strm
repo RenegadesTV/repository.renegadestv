@@ -1,0 +1,5 @@
+http://pappuyartangnakar.ddns.net:8080/sp4T/sp4RtkkW/index.m3u8
+rtmp://89.248.172.159:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=530&height=370 token=#atd%#$ZH
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+rtmp://137.63.71.18:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=620&height=450 token=#atd%#$ZH
+plugin://plugin.video.stalker/?tmp=1&genre_name=%5B%27All%27%5D&title=Sky+Sports+4&cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2465&portal=%7B%22name%22%3A+%22NFPS%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%22%22%2C+%22serial%22%3A+null%2C+%22password%22%3A+%220000%22%7D&mode=play&logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1275.png&
