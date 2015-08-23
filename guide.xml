@@ -1,0 +1,43 @@
+BBC One London=http://82.135.224.134:80/udp/239.100.3.1:1234
+BBC One Scotland=http://82.135.224.134:80/udp/239.100.3.2:1234
+BBC Two England=http://82.135.224.134:80/udp/239.100.3.3:1234
+BBC Three=http://82.135.224.134:80/udp/239.100.3.4:1234
+BBC Four=http://82.135.224.134:80/udp/239.100.3.5:1234
+E4 HD=http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+DAVE=http://93.184.221.133/00573D/292/292-0.m3u8
+London Live=http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+Tom and Jerry Classic=rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+DANCE TV=http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+Music=http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+Heart TV=http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+CAPITAL TV=http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+Channel AKA=http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+Clubland TV=http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+MTV Music HD=rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+MTV Hits SD=http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+MTV Dance HD=http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+MTV Rocks HD=http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+Vevo1 HD=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+Vevo2 HD=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+Vevo3 HD=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+Kiss Tv Music=rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+Film4 HD=http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+MOVIES4MEN=http://93.184.221.133/00573D/311/311-0.m3u8
+HBO Plus EN=rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+Sky Sports 1 HD=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+Sky Sports 2 HD=rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+Sky Sports 3 HD=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+Sky Sports 4 HD=rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+Sky Sports 5=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+BT Sport / ESPN=rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+WWE=rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+BT sport 2 HD=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+Euro sport=rtmp://80.82.64.140:443/liverepeater playpath=9 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+Eurosport 1 (stream 2)=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+Euro sport HD=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+DISCOVERY EUROPE=http://93.184.221.133/00573D/1347/1347-0.m3u8
+DISCOVERY HISTORY=http://93.184.221.133/00573D/1348/1348-0.m3u8 
+Sky News International=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+BBC News=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+CNN=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+CNBC=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
